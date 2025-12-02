@@ -1,5 +1,9 @@
 # 使用教程
 
+## 启动服务器
+
+* **双击server.exe以启动服务器**
+
 ## 登录
 
 * **POST ： <http://localhost:8080/login>**
@@ -35,3 +39,4 @@
 ## 在线用户
 
 * **GET ： <http://localhost:8080//onlineuser>**
+
